@@ -17,6 +17,7 @@
     </style>
 </head>
 <body>
+    <h1>Homework</h1>
     <?php
     echo '<h1>Nature Photo</h1><br>';
     echo '<center><img src = "nature.jpg" alt = "Nature Photo"></center>';
